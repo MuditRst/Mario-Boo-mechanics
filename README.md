@@ -1,3 +1,3 @@
 # Mario-Boo-mechanics
 
-This is a WIP Boo (from mario) like mechanic-puzzle game.
+This is a WIP Boo (from mario games) like mechanic-puzzle game.
